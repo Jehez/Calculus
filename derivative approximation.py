@@ -1,7 +1,10 @@
 # Approximating derivatives
 
 # A derivative is defined as the following limit:
+# f(x+δx)-f(x) over δx as δx approaches 0
+# which may be rephrased as 
 # δy/δx as δx approaches 0
+# setting f(x+δx)-f(x) as δy
 
 # Using this, we can use 2 values of x which have δx (x2-x1) as a very small number
 
